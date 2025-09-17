@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Locust logs and reports
+*.csv
+*.log
+*.html
+*.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Coverage and test reports
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Misc
+*.swp
+*.bak
+*.tmp
